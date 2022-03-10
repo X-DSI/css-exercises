@@ -1,0 +1,21 @@
+.c-number1,
+.c-number2,
+.c-number3{
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.c-number2{
+    font-size: 24px;
+}
+
+#id-number1{
+    font-size: 36px;
+    color: blue;
+}
+
+#id-number2{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
